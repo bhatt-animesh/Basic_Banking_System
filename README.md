@@ -8,7 +8,7 @@ BBS 0.0.1
 
 Webiste Link : https://spumous-prop.000webhostapp.com/
 
-It is basic Application where user amount tranfer amount to another user.
+It is basic Application where user amount transfer amount to another user.
 
 
 ### Download instructions:
