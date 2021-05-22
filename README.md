@@ -6,7 +6,7 @@ BBS 0.0.1
 
 ### Description:
 
-Webiste Link : https://spumous-prop.000webhostapp.com/
+Webiste Link : http://18.214.146.67/bankio
 
 It is basic Application where user amount transfer amount to another user.
 
